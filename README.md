@@ -8,12 +8,11 @@ Dieses Repository enthält die in den Dokumenten enthaltenen Listen in maschinen
 
 ## Verwaltungsvorschrift Produkt- und Kontenrahmen
 
-* [Anlage 29 (Produktbereiche)](vwv-anlage_29-produktbereiche.csv)
+* Anlage 29 (Produktbereiche): [CSV](vwv-anlage_29-produktbereiche.csv) [ODS](vwv-anlage_29-produktbereiche.ods)
 
 ## Quellen
 
 Die Originaldateien aus denen die Daten extrahiert wurden sind im Unterverzeichnis `quellen`.
-
 
 
 [produktplan]: sources/Kommunaler_Produktplan_Stand_14.06.2016.pdf
