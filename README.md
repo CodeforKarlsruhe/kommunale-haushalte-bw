@@ -18,13 +18,9 @@ Dieses Repository enthält die in den Dokumenten enthaltenen Listen in maschinen
 
 
 ### Anlage 30.2 (Kontenrahmen)
-[JSON](vwv-anlage_30.2-kontenrahmen.json) [CSV](vwv-anlage_30.2-kontenrahmen.csv) [ODS](vwv-anlage_30.2-kontenrahmen.ods)
 
-Der Kontenrahmen ist hierarchisch aufgebaut. Die CSV- und ODS-Varianten enthalten diese Hierarchie (wie das Originaldokument) nur implizit. In der JSON-Variante ist die Hierarchie explizit abgebildet:
+[JSON](vwv-anlage_30.2-kontenrahmen.json)
 
-    klassen = load_json('vwv-anlage_30.2-kontenrahmen.json')
-    print(klassen['1']['gruppen']['11']['arten']['111']['konten']['1112']['beschreibung'])
-    # Gibt 'Nichtbörsennotierte Aktien' aus
 
 ## Quellen
 
