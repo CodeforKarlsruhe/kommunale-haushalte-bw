@@ -27,6 +27,6 @@ Dieses Repository enthält die in den Dokumenten enthaltenen Listen in maschinen
 Die Originaldateien aus denen die Daten extrahiert wurden sind im Unterverzeichnis `quellen`.
 
 
-[produktplan]: sources/Kommunaler_Produktplan_Stand_14.06.2016.pdf
-[vwv]: sources/VwV_Produkt-_und_Kontenrahmen_komplett_29062016.pdf
+[produktplan]: quellen/Kommunaler_Produktplan_Stand_14.06.2016.pdf
+[vwv]: quellen/VwV_Produkt-_und_Kontenrahmen_komplett_29062016.pdf
 
